@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Address Book</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1>Address Book</h1>
+
+    <div class="form-section">
+        <form id="address-book-form">
+            <input type="text" placeholder="Enter place you have been" id="place-you-have-been"><br>
+            <input type="text" placeholder="Enter the location" id="location"><br>
+            <input type="datetime-local" placeholder="Enter the time and date" id="time-and-date"><br>
+            <input type="text" placeholder="Enter landmarks" id="landmarks"><br>
+            <textarea placeholder="Enter notes" id="notes"></textarea><br>
+            <button type="submit">Submit</button> 
+        </form>
+    </div>
+
+    <section class="label">
+        <h2>Task Done</h2>
+        <form id="task-done-form">
+            <input type="text" placeholder="Enter if task is done" id="task-done"><br>
+            <button type="submit">Submit</button>
+        </form>
+    </section>  
+
+    <section class="remove-section">
+        <h3>Remove List</h3>
+        <form id="remove-list-form">
+            <input type="text" placeholder="Enter to remove list" id="to-remove-list"><br>
+            <button type="submit" disabled>Remove</button>
+        </form>
+    </section>
+
+</body>
+</html>
