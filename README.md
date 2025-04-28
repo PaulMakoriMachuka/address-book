@@ -9,9 +9,12 @@ The Address Book is a web application designed to help users track and manage pl
 
 ##SETUP AND INSTALLATION REQUIRMENT
 
-1.Ensure you have a modern web browser (Google Chrome, Firefox, Safari, etc.)
+1.Ensure you have a modern web browser.
+
 2.Clone the repository or download the project files.
+
 3.Open the index.html file in your browser to run the app.
+
 4.No server or database is required. The application runs locally.
 
 ##OPTIONAL SETUP:
@@ -26,7 +29,9 @@ Currently, there is no functionality to edit existing entries.
 ##TECHNOLOGIES USED
 
 1.HTML – for the structure of the application
+
 2.CSS – for styling the app
+
 3.JavaScript – for the interactive features (using constructors and prototypes for data handling)
 
 ##SUPPORT AND CONTACT DETAILS
