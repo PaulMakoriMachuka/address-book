@@ -44,7 +44,7 @@ textarea {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color:  burlywood;
     color: white;
     padding: 12px;
     border: none;
@@ -56,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color:  burlywood;
 }
 
 
